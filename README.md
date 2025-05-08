@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daffa Ikhsan Afdallah</h1>
-<h3 align="center">working in it department at lp3i polytechnic campus medan, indonesia</h3>
+<h3 align="center">working in IT Department at lp3i polytechnic campus medan, indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daffaafdallah&label=Profile%20views&color=0e75b6&style=flat" alt="daffaafdallah" /> </p>
 
