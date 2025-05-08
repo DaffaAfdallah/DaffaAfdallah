@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **daffaafdallah11@gmail.com**
 
-- ⚡ Fun fact **i love cat😸**
+- ⚡ **i love cat😸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
